@@ -27,7 +27,6 @@ Instead, we recommend using [Stack Overflow][so] to ask support-related question
 - [Stack Overflow][so]'s voting system assures that the best answers are prominently visible.
 
 To save your and our time, we will systematically close all issues that are requests for general support and redirect people to [Stack Overflow][so].  
-If you would like to chat about the question in real-time, you can reach out via [our Discord server][discord].
 
 ## 🐛Issues and Bugs
 
@@ -207,7 +206,6 @@ Similarly, a Deprecation section should start with "DEPRECATED: " followed by a 
 [coc]: https://github.com/JamBalaya56562/JamBalaya56562/blob/main/CODE_OF_CONDUCT.md
 [commit-message-format]: https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
 [JamBalaya56562-pr]: https://github.com/JamBalaya56562/JamBalaya56562/pulls
-[discord]: https://discord.gg/tSHMqK8VDU
 [fork]: https://help.github.com/articles/fork-a-repo/
 [issue-template]: https://github.com/JamBalaya56562/JamBalaya56562/tree/main/.github/ISSUE_TEMPLATE
 [pr]: https://help.github.com/articles/using-pull-requests/
