@@ -146,11 +146,11 @@ The following is the example list of supported scopes:
 
 * `biome`
 * `bun`
-* `ci`
 * `common`
 * `css`
 * `docker`
 * `git`
+* `npm`
 * `security`
 * `test`
 * `vscode`
