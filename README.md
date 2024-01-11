@@ -9,7 +9,7 @@
 
 <h2 align="center">ミ★ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ★彡</h2>
   
-[<img src="https://img.shields.io/badge/-biome-F7B911.svg?logo=biome&style=for-the-badge&labelColor=000000">](https://biomejs.dev/)
+[<img src="https://img.shields.io/badge/-biome-60A5FA.svg?logo=biome&style=for-the-badge&labelColor=000000">](https://biomejs.dev/)
 [<img src="https://img.shields.io/badge/-Bun-FBF0DF.svg?logo=bun&style=for-the-badge&labelColor=000000">](https://bun.sh/)
 [<img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=nodedotjs&style=for-the-badge&labelColor=000000">](https://nodejs.org/)
 [<img src="https://img.shields.io/badge/-next.js-000000.svg?logo=next.js&style=for-the-badge&labelColor=000000">](https://nextjs.org/)
