@@ -9,21 +9,21 @@
 
 <h2 align="center">ミ★ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ★彡</h2>
   
-[<img src="https://img.shields.io/badge/-Biome-60A5FA.svg?logo=biome&style=for-the-badge&labelColor=000000">](https://biomejs.dev/)
-[<img src="https://img.shields.io/badge/-Bun-FBF0DF.svg?logo=bun&style=for-the-badge&labelColor=000000">](https://bun.sh/)
-[<img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=nodedotjs&style=for-the-badge&labelColor=000000">](https://nodejs.org/)
-[<img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge&labelColor=000000">](https://nextjs.org/)
-[<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=for-the-badge&labelColor=000000">](https://react.dev/)
-[<img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=for-the-badge&labelColor=000000">](https://www.typescriptlang.org/)
-[<img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=for-the-badge&labelColor=000000">](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
-[<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=for-the-badge&labelColor=000000">](https://www.python.org/)
-[<img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4.svg?logo=tailwindcss&style=for-the-badge&labelColor=000000">](https://tailwindcss.com/)
-[<img src="https://img.shields.io/badge/-Nginx-009639.svg?logo=nginx&style=for-the-badge&labelColor=000000">](https://nginx.org/)
-[<img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=for-the-badge&labelColor=000000">](https://www.docker.com/)
-[<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=for-the-badge&labelColor=000000">](https://kernel.org/)
-[<img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonwebservices&style=for-the-badge&labelColor=000000">](https://aws.amazon.com/)
-[<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=for-the-badge&labelColor=000000">](https://git-scm.com/)
-[<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=visualstudiocode&style=for-the-badge&labelColor=000000">](https://code.visualstudio.com/)
+[<img src="https://img.shields.io/badge/Biome-60A5FA?labelColor=000000&logo=biome&style=for-the-badge">](https://biomejs.dev/)
+[<img src="https://img.shields.io/badge/Bun-FBF0DF?labelColor=000000&logo=bun&style=for-the-badge">](https://bun.sh/)
+[<img src="https://img.shields.io/badge/Node.js-339933?labelColor=000000&logo=nodedotjs&style=for-the-badge">](https://nodejs.org/)
+[<img src="https://img.shields.io/badge/Next.js-000000?labelColor=000000&logo=next.js&style=for-the-badge">](https://nextjs.org/)
+[<img src="https://img.shields.io/badge/React-61DAFB?labelColor=000000&logo=react&style=for-the-badge">](https://react.dev/)
+[<img src="https://img.shields.io/badge/TypeScript-3178C6?labelColor=000000&logo=typescript&style=for-the-badge">](https://www.typescriptlang.org/)
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?labelColor=000000&logo=javascript&style=for-the-badge">](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+[<img src="https://img.shields.io/badge/Python-3776AB?labelColor=000000&logo=python&style=for-the-badge">](https://www.python.org/)
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?labelColor=000000&logo=tailwindcss&style=for-the-badge">](https://tailwindcss.com/)
+[<img src="https://img.shields.io/badge/Nginx-009639?labelColor=000000&logo=nginx&style=for-the-badge">](https://nginx.org/)
+[<img src="https://img.shields.io/badge/Docker-2496ED?labelColor=000000&logo=docker&style=for-the-badge">](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/Linux-FCC624?labelColor=000000&logo=linux&style=for-the-badge">](https://kernel.org/)
+[<img src="https://img.shields.io/badge/AWS-232F3E?labelColor=000000&logo=amazonwebservices&style=for-the-badge">](https://aws.amazon.com/)
+[<img src="https://img.shields.io/badge/Git-F05032?labelColor=000000&logo=git&style=for-the-badge">](https://git-scm.com/)
+[<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?labelColor=000000&style=for-the-badge">](https://code.visualstudio.com/)
 
 <h2 align="center">𓂀 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𓂀</h2>
 
