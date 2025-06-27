@@ -21,9 +21,7 @@
 [<img src="https://img.shields.io/badge/Nginx-009639?labelColor=000000&logo=nginx&style=for-the-badge">](https://nginx.org/)
 [<img src="https://img.shields.io/badge/Docker-2496ED?labelColor=000000&logo=docker&style=for-the-badge">](https://www.docker.com/)
 [<img src="https://img.shields.io/badge/Linux-FCC624?labelColor=000000&logo=linux&style=for-the-badge">](https://kernel.org/)
-[<img src="https://img.shields.io/badge/AWS-232F3E?labelColor=000000&logo=amazonwebservices&style=for-the-badge">](https://aws.amazon.com/)
 [<img src="https://img.shields.io/badge/Git-F05032?labelColor=000000&logo=git&style=for-the-badge">](https://git-scm.com/)
-[<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?labelColor=000000&style=for-the-badge">](https://code.visualstudio.com/)
 
 <h2 align="center">𓂀 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𓂀</h2>
 
