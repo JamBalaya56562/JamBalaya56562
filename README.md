@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="./images/programming.gif" alt="programming" height="360" width="640">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=JamBalaya56562&show_icons=true&theme=tokyonight" alt="profile">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamBalaya56562&layout=compact&theme=tokyonight" alt="top-langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamBalaya56562&show_icons=true&theme=tokyonight" alt="profile">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamBalaya56562&layout=compact&theme=tokyonight" alt="top-languages">
 </div>
 
 <h2 align="center">ミ★ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ★彡</h2>
