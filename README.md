@@ -35,3 +35,7 @@ JSON                 1 hr 25 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
 <!--END_SECTION:waka-->
+
+<a href="https://algora.io/profile/Jambalaya56562" align="center">
+  <img src="https://algora.io/og/user/JamBalaya56562" />
+</a>
