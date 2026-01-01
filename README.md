@@ -1,9 +1,9 @@
 <h1 align="center">⚛️ 🅹🅰🅼 🅱🅰🅻🅰🆈🅰 ⚛️</h1>
 
 <div align="center">
-  <img src="./images/programming.gif" alt="programming" height="360" width="640">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamBalaya56562&show_icons=true&theme=tokyonight" alt="profile">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamBalaya56562&layout=compact&theme=tokyonight" alt="top-languages">
+  <img src="./profile/programming.gif" alt="programming" height="360" width="640">
+  <img src="./profile/stats.svg" alt="profile">
+  <img src="./profile/top-langs.svg" alt="top-languages">
 </div>
 
 <h2 align="center">ミ★ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ★彡</h2>
