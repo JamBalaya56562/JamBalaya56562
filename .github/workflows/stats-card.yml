@@ -6,37 +6,33 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-cards:
     runs-on: ubuntu-latest
     permissions:
       checks: write
       statuses: write
       contents: write
     steps:
-      - uses: actions/checkout@v6
+      - name: 📥 Checkout
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
 
-      - name: Generate stats card
+      - name: 🎴 Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: 🃏 Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit cards
+      - name: 💾 Commit cards
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
@@ -48,5 +44,4 @@ jobs:
           -F commitMessage="docs: update README cards" \
           -F files[][path]="profile/stats.svg" -F files[][contents]=$(base64 -w0 profile/stats.svg) \
           -F files[][path]="profile/top-langs.svg" -F files[][contents]=$(base64 -w0 profile/top-langs.svg) \
-          -F files[][path]="profile/pin.svg" -F files[][contents]=$(base64 -w0 profile/pin.svg) \
           -F "query=@.github/api/createCommitOnBranch.gql"
