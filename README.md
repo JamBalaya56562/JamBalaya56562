@@ -18,20 +18,20 @@
 [<img src="https://img.shields.io/badge/Python-3776AB?labelColor=000000&logo=python&style=for-the-badge">](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?labelColor=000000&logo=tailwindcss&style=for-the-badge">](https://tailwindcss.com/)
 [<img src="https://img.shields.io/badge/Nginx-009639?labelColor=000000&logo=nginx&style=for-the-badge">](https://nginx.org/)
+[<img src="https://img.shields.io/badge/Ansible-EE0000?labelColor=000000&logo=ansible&style=for-the-badge">](https://www.redhat.com/en/ansible-collaborative/)
 [<img src="https://img.shields.io/badge/Docker-2496ED?labelColor=000000&logo=docker&style=for-the-badge">](https://www.docker.com/)
-[<img src="https://img.shields.io/badge/Linux-FCC624?labelColor=000000&logo=linux&style=for-the-badge">](https://kernel.org/)
-[<img src="https://img.shields.io/badge/Git-F05032?labelColor=000000&logo=git&style=for-the-badge">](https://git-scm.com/)
+[<img src="https://img.shields.io/badge/OpenTofu-FFDA18?labelColor=000000&logo=opentofu&style=for-the-badge">](https://opentofu.org/)
 
-<h2 align="center">𓂀 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𓂀</h2>
+<h2 align="center"><a href="https://wakatime.com/@JamBalaya">𓂀 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𓂀</a></h2>
 
 <!--START_SECTION:waka-->
 
 ```txt
-Other                41 hrs 20 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜   79.67 %
-YAML                 3 hrs 11 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.15 %
-JavaScript           2 hrs 8 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.13 %
-Markdown             1 hr 46 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.41 %
-JSON                 1 hr 25 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.75 %
+Other                43 hrs 17 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜   76.65 %
+Go                   3 hrs 55 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.96 %
+MDX                  3 hrs 43 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.59 %
+JSON                 2 hrs 43 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.83 %
+Markdown             1 hr 30 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.67 %
 ```
 
 <!--END_SECTION:waka-->
