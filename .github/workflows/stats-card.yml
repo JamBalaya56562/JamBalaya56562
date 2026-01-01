@@ -34,12 +34,13 @@ jobs:
 
       - name: 💾 Commit cards
         env:
+          BRANCH: ${{ github.event.repository.default_branch }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
         run: |
           gh api graphql \
           -F githubRepository=$REPO \
-          -F branchName="main" \
+          -F branchName=$BRANCH \
           -F expectedHeadOid=$(git rev-parse HEAD) \
           -F commitMessage="docs: update README cards" \
           -F files[][path]="profile/stats.svg" -F files[][contents]=$(base64 -w0 profile/stats.svg) \
