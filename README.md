@@ -22,7 +22,7 @@
 [<img src="https://img.shields.io/badge/Docker-2496ED?labelColor=000000&logo=docker&style=for-the-badge">](https://www.docker.com/)
 [<img src="https://img.shields.io/badge/OpenTofu-FFDA18?labelColor=000000&logo=opentofu&style=for-the-badge">](https://opentofu.org/)
 
-<h2 align="center">𓂀 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𓂀</h2>
+<h2 align="center"><a href="https://wakatime.com/@JamBalaya">𓂀 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪 𓂀</a></h2>
 
 <!--START_SECTION:waka-->
 
