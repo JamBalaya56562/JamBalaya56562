@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
+      checks: write
+      statuses: write
       contents: write
     steps:
       - uses: actions/checkout@v6
@@ -35,9 +37,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "docs: update README cards" || exit 0
-          git push
+          gh api graphql \
+          -F githubRepository=$REPO \
+          -F branchName="main" \
+          -F expectedHeadOid=$(git rev-parse HEAD) \
+          -F commitMessage="docs: update README cards" \
+          -F files[][path]="profile/stats.svg" -F files[][contents]=$(base64 -w0 profile/stats.svg) \
+          -F files[][path]="profile/top-langs.svg" -F files[][contents]=$(base64 -w0 profile/top-langs.svg) \
+          -F files[][path]="profile/pin.svg" -F files[][contents]=$(base64 -w0 profile/pin.svg) \
+          -F "query=@.github/api/createCommitOnBranch.gql"
