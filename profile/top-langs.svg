@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="219.86"
+          width="225.04"
           height="8"
           fill="#3178c6"
         />
@@ -138,9 +138,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="219.86"
+          x="225.04"
           y="0"
-          width="19.18"
+          width="16.96"
+          height="8"
+          fill="#fcb32c"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="242"
+          y="0"
+          width="15.99"
           height="8"
           fill="#384d54"
         />
@@ -148,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.04000000000002"
+          x="247.99"
           y="0"
-          width="10.96"
+          width="12.01"
           height="8"
           fill="#663399"
         />
@@ -161,21 +171,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 87.94%
+        TypeScript 90.01%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#384d54" />
+      <circle cx="5" cy="6" r="5" fill="#fcb32c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dockerfile 7.67%
+        MDX 6.79%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#384d54" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Dockerfile 2.39%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 4.38%
+        CSS 0.80%
       </text>
     </g>
   </g></g>
