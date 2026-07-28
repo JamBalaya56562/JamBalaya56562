@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Jam Balaya's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 874, Total PRs: 1732, Total Issues: 48, Contributed to (last year): 73</desc>
+        <title id="titleId">Jam Balaya&#39;s GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 876, Total PRs: 1735, Total Issues: 48, Contributed to (last year): 69</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 87.78703179186775;
+        stroke-dashoffset: 87.7665012869207;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Jam Balaya's GitHub Stats</text>
+      >Jam Balaya&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >874</text>
+      >876</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >73</text>
+      >69</text>
     </g>
   </g>
     </svg>
