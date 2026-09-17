@@ -188,7 +188,7 @@
           data-testid="lang-progress"
           x="249.62"
           y="0"
-          width="10.38"
+          width="10.37"
           height="8"
           fill="#384d54"
         />
@@ -199,14 +199,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 61.74%
+        TypeScript 61.75%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#fcb32c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        MDX 29.49%
+        MDX 29.50%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
