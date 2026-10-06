@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jam Balaya&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 1622, Total PRs: 2611, Total Issues: 51, Contributed to (last year): 66</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 1636, Total PRs: 2624, Total Issues: 51, Contributed to (last year): 66</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.99581354103863;
+        stroke-dashoffset: 83.9780463852698;
       }
     }
   
