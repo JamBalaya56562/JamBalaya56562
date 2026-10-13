@@ -8,6 +8,11 @@
 
 </div>
 
+## 🔭 Recent Contributions
+
+<!--START_SECTION:prs-->
+<!--END_SECTION:prs-->
+
 ## ⚡ Tech Stack
 
 <div align="center">

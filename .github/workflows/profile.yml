@@ -1,0 +1,55 @@
+name: 🪄 Update profile
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    paths:
+      - .github/scripts/**
+      - .github/workflows/profile.yml
+  workflow_dispatch:
+
+concurrency:
+  group: profile-${{ github.ref }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: 🐍 Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/snake.svg?palette=github-light&color_snake=#7aa2f7
+            profile/snake-dark.svg?palette=github-dark&color_snake=#bb9af7&color_dots=#1a1b26,#2e3c64,#3d59a1,#7aa2f7,#bb9af7
+
+      - name: 🔭 Update recent contributions
+        env:
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/profile.py prs README.md
+
+      - name: 💾 Commit changes
+        env:
+          BRANCH: ${{ github.ref_name }}
+          REPO: ${{ github.repository }}
+        run: |
+          git add -A profile README.md
+          mapfile -t files < <(git diff --cached --name-only --diff-filter=AM)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          python3 .github/scripts/profile.py commit \
+            "$REPO" "$BRANCH" "$(git rev-parse HEAD)" \
+            "docs: update profile" "${files[@]}" > "$RUNNER_TEMP/body.json"
+          gh api graphql --input "$RUNNER_TEMP/body.json"
