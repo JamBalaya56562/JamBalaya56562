@@ -14,15 +14,15 @@
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [321](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.1k | [257](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.1k | [261](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.1k | [207](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [67](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 686 | [38](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 687 | [38](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [28](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
-- `2026-10-16` **jdx/mise** — [fix(backend): resolve remote versions with each request's own options](https://github.com/jdx/mise/pull/14476)
+- `2026-10-17` **jdx/mise** — [fix(vfox): report an HTTP client that cannot be built instead of panicking](https://github.com/jdx/mise/pull/14576)
 - `2026-10-15` **motioneye-project/motioneye** — [fix(config): refuse camera settings without a storage device](https://github.com/motioneye-project/motioneye/pull/3448)
 - `2026-10-15` **google/go-github** — [feat!: Support `reason` in `UsersService.Unsuspend`](https://github.com/google/go-github/pull/4614)
 - `2026-10-15` **aubepkg/aube** — [fix(install): link a symlinked member's deps from its real location](https://github.com/aubepkg/aube/pull/1748)
@@ -31,7 +31,7 @@
 - `2026-10-12` **aletheia-works/vivarium** — [chore(repro): retire biome-12265, fixed upstream](https://github.com/aletheia-works/vivarium/pull/518)
 - `2026-10-11` **biomejs/biome** — [fix(migrate): use Prettier's defaults for semi and singleQuote](https://github.com/biomejs/biome/pull/12266)
 
-<sub>1,516 merged PRs to other projects · updated 2026-10-16 by GitHub Actions</sub>
+<sub>1,520 merged PRs to other projects · updated 2026-10-17 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
