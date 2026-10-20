@@ -13,25 +13,25 @@
 <!--START_SECTION:prs-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [321](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.1k | [263](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.1k | [207](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [67](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 689 | [38](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [28](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.2k | [263](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.1k | [215](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [74](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/pitchfork](https://github.com/jdx/pitchfork) | 690 | [38](https://github.com/jdx/pitchfork/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [37](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/324215402?v=4&s=40" width="20" height="20" alt=""> | [aubepkg/aube](https://github.com/aubepkg/aube) | 2.0k | [21](https://github.com/aubepkg/aube/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
+- `2026-10-19` **google/go-github** — [feat: Add support for organization rule suites](https://github.com/google/go-github/pull/4642)
+- `2026-10-19` **duplicati/ngclient** — [Test restore search requests and results](https://github.com/duplicati/ngclient/pull/569)
+- `2026-10-19` **duplicati/duplicati** — [Do not keep the pause for a suspend over a restart](https://github.com/duplicati/duplicati/pull/7465)
+- `2026-10-19` **duplicati/documentation** — [Mention the default database encryption on the server authentication page](https://github.com/duplicati/documentation/pull/49)
 - `2026-10-18` **jdx/mr-boxington** — [fix(mise): replace the bootstrap binary while a previous one still runs](https://github.com/jdx/mr-boxington/pull/740)
 - `2026-10-18` **jdx/mise** — [fix(shim): render command wrappers with their config file's config_root](https://github.com/jdx/mise/pull/14628)
-- `2026-10-17` **google/go-github** — [fix: Treat `BusinessTeam` as a regular `Team` for Environment reviewers](https://github.com/google/go-github/pull/4638)
 - `2026-10-15` **motioneye-project/motioneye** — [fix(config): refuse camera settings without a storage device](https://github.com/motioneye-project/motioneye/pull/3448)
 - `2026-10-15` **aubepkg/aube** — [fix(install): link a symlinked member's deps from its real location](https://github.com/aubepkg/aube/pull/1748)
-- `2026-10-14` **duplicati/duplicati** — [Strip trailing nulls from WebDAV directory listings on Windows](https://github.com/duplicati/duplicati/pull/7467)
-- `2026-10-13` **fabric8io/docker-maven-plugin** — [Apply &lt;labels&gt; when building from a provided Dockerfile (buildx --label + classic build option)](https://github.com/fabric8io/docker-maven-plugin/pull/1952)
-- `2026-10-12` **aletheia-works/vivarium** — [chore(repro): retire biome-12265, fixed upstream](https://github.com/aletheia-works/vivarium/pull/518)
 
-<sub>1,529 merged PRs to other projects · updated 2026-10-19 by GitHub Actions</sub>
+<sub>1,554 merged PRs to other projects · updated 2026-10-20 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
