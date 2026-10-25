@@ -22,16 +22,16 @@
 
 **🆕 Latest merged pull requests**
 
+- `2026-10-25` **biomejs/biome** — [fix(migrate): carry Prettier's bracketSpacing into the top-level](https://github.com/biomejs/biome/pull/12670)
+- `2026-10-24` **google/go-github** — [feat: Add support for the `code_quality` ruleset rule](https://github.com/google/go-github/pull/4663)
 - `2026-10-23` **duplicati/ngclient** — [Preserve a single wildcard in expression filters](https://github.com/duplicati/ngclient/pull/591)
 - `2026-10-23` **duplicati/duplicati** — [Stop waiting for a stuck source listing when the backup is aborted](https://github.com/duplicati/duplicati/pull/7520)
-- `2026-10-22` **google/go-github** — [fix: Handle string-valued error responses](https://github.com/google/go-github/pull/4660)
 - `2026-10-21` **fabric8io/docker-maven-plugin** — [Retry the macOS integration tests only when the VM's resolver times out](https://github.com/fabric8io/docker-maven-plugin/pull/1970)
 - `2026-10-21` **aletheia-works/vivarium** — [build(docs): pin the release-please test engine to the action's bundled version](https://github.com/aletheia-works/vivarium/pull/550)
 - `2026-10-19` **duplicati/documentation** — [Mention the default database encryption on the server authentication page](https://github.com/duplicati/documentation/pull/49)
 - `2026-10-18` **jdx/mr-boxington** — [fix(mise): replace the bootstrap binary while a previous one still runs](https://github.com/jdx/mr-boxington/pull/740)
-- `2026-10-18` **jdx/mise** — [fix(shim): render command wrappers with their config file's config_root](https://github.com/jdx/mise/pull/14628)
 
-<sub>1,598 merged PRs to other projects · updated 2026-10-24 by GitHub Actions</sub>
+<sub>1,601 merged PRs to other projects · updated 2026-10-25 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
