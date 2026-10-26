@@ -14,24 +14,24 @@
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [325](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.3k | [263](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [254](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [92](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [274](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.4k | [263](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [97](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [37](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/324215402?v=4&s=40" width="20" height="20" alt=""> | [aubepkg/aube](https://github.com/aubepkg/aube) | 2.0k | [21](https://github.com/aubepkg/aube/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/324215402?v=4&s=40" width="20" height="20" alt=""> | [aubepkg/aube](https://github.com/aubepkg/aube) | 2.0k | [24](https://github.com/aubepkg/aube/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
+- `2026-10-26` **aubepkg/aube** — [fix(install): link the bins of a dependency's link: deps into its .bin](https://github.com/aubepkg/aube/pull/1873)
+- `2026-10-25` **duplicati/ngclient** — [Test version label save ordering and failures](https://github.com/duplicati/ngclient/pull/598)
+- `2026-10-25` **duplicati/duplicati** — [Restore the temp environment variables after each unit test](https://github.com/duplicati/duplicati/pull/7578)
+- `2026-10-25` **motioneye-project/motioneye** — [feat(motionctl): add authentication for the motion control interface](https://github.com/motioneye-project/motioneye/pull/3474)
+- `2026-10-25` **google/go-github** — [refactor!: Rename `CodeScanningAlertState` and `DependabotAlertState` to `...Request` and pass them by value](https://github.com/google/go-github/pull/4617)
 - `2026-10-25` **biomejs/biome** — [fix(migrate): carry Prettier's bracketSpacing into the top-level](https://github.com/biomejs/biome/pull/12670)
-- `2026-10-24` **google/go-github** — [feat: Add support for the `code_quality` ruleset rule](https://github.com/google/go-github/pull/4663)
-- `2026-10-23` **duplicati/ngclient** — [Preserve a single wildcard in expression filters](https://github.com/duplicati/ngclient/pull/591)
-- `2026-10-23` **duplicati/duplicati** — [Stop waiting for a stuck source listing when the backup is aborted](https://github.com/duplicati/duplicati/pull/7520)
 - `2026-10-21` **fabric8io/docker-maven-plugin** — [Retry the macOS integration tests only when the VM's resolver times out](https://github.com/fabric8io/docker-maven-plugin/pull/1970)
 - `2026-10-21` **aletheia-works/vivarium** — [build(docs): pin the release-please test engine to the action's bundled version](https://github.com/aletheia-works/vivarium/pull/550)
-- `2026-10-19` **duplicati/documentation** — [Mention the default database encryption on the server authentication page](https://github.com/duplicati/documentation/pull/49)
-- `2026-10-18` **jdx/mr-boxington** — [fix(mise): replace the bootstrap binary while a previous one still runs](https://github.com/jdx/mr-boxington/pull/740)
 
-<sub>1,601 merged PRs to other projects · updated 2026-10-25 by GitHub Actions</sub>
+<sub>1,631 merged PRs to other projects · updated 2026-10-26 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
