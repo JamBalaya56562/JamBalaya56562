@@ -13,25 +13,25 @@
 <!--START_SECTION:prs-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [285](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [293](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.5k | [263](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [102](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [108](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [37](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/324215402?v=4&s=40" width="20" height="20" alt=""> | [aubepkg/aube](https://github.com/aubepkg/aube) | 2.1k | [24](https://github.com/aubepkg/aube/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [14](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
+- `2026-10-28` **google/go-github** — [fix: Use `BundleURL` in `verifyartifact` example and deprecate `Bundle`](https://github.com/google/go-github/pull/4681)
+- `2026-10-28` **duplicati/duplicati** — [Upload a missing dlist file again under its own name](https://github.com/duplicati/duplicati/pull/7573)
+- `2026-10-28` **duplicati/ngclient** — [Test timespan form values and field-specific units](https://github.com/duplicati/ngclient/pull/612)
 - `2026-10-27` **motioneye-project/motioneye** — [enh: track motion by its process instead of a pid file](https://github.com/motioneye-project/motioneye/pull/3478)
-- `2026-10-27` **duplicati/ngclient** — [Respect disabled state when selecting or dropping files](https://github.com/duplicati/ngclient/pull/602)
-- `2026-10-27` **duplicati/duplicati** — [Drop jQuery from the login and signin pages](https://github.com/duplicati/duplicati/pull/7584)
-- `2026-10-26` **google/go-github** — [feat!: Add Copilot content exclusion set and enterprise endpoints](https://github.com/google/go-github/pull/4675)
 - `2026-10-26` **aubepkg/aube** — [fix(install): link the bins of a dependency's link: deps into its .bin](https://github.com/aubepkg/aube/pull/1873)
 - `2026-10-25` **biomejs/biome** — [fix(migrate): carry Prettier's bracketSpacing into the top-level](https://github.com/biomejs/biome/pull/12670)
 - `2026-10-21` **fabric8io/docker-maven-plugin** — [Retry the macOS integration tests only when the VM's resolver times out](https://github.com/fabric8io/docker-maven-plugin/pull/1970)
 - `2026-10-21` **aletheia-works/vivarium** — [build(docs): pin the release-please test engine to the action's bundled version](https://github.com/aletheia-works/vivarium/pull/550)
 
-<sub>1,650 merged PRs to other projects · updated 2026-10-28 by GitHub Actions</sub>
+<sub>1,665 merged PRs to other projects · updated 2026-10-29 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
