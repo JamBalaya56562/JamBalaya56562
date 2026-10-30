@@ -13,25 +13,25 @@
 <!--START_SECTION:prs-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [293](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.5k | [263](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [108](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [306](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.6k | [263](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [114](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [37](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/324215402?v=4&s=40" width="20" height="20" alt=""> | [aubepkg/aube](https://github.com/aubepkg/aube) | 2.1k | [24](https://github.com/aubepkg/aube/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [14](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
+- `2026-10-29` **motioneye-project/motioneye** — [docs(readme): mention the Docker images](https://github.com/motioneye-project/motioneye/pull/3488)
+- `2026-10-29` **duplicati/duplicati** — [Ignore the files the Playwright tests leave in the repository](https://github.com/duplicati/duplicati/pull/7636)
+- `2026-10-29` **duplicati/ngclient** — [Test responsive navigation and persistent theme selection](https://github.com/duplicati/ngclient/pull/616)
 - `2026-10-28` **google/go-github** — [fix: Use `BundleURL` in `verifyartifact` example and deprecate `Bundle`](https://github.com/google/go-github/pull/4681)
-- `2026-10-28` **duplicati/duplicati** — [Upload a missing dlist file again under its own name](https://github.com/duplicati/duplicati/pull/7573)
-- `2026-10-28` **duplicati/ngclient** — [Test timespan form values and field-specific units](https://github.com/duplicati/ngclient/pull/612)
-- `2026-10-27` **motioneye-project/motioneye** — [enh: track motion by its process instead of a pid file](https://github.com/motioneye-project/motioneye/pull/3478)
 - `2026-10-26` **aubepkg/aube** — [fix(install): link the bins of a dependency's link: deps into its .bin](https://github.com/aubepkg/aube/pull/1873)
 - `2026-10-25` **biomejs/biome** — [fix(migrate): carry Prettier's bracketSpacing into the top-level](https://github.com/biomejs/biome/pull/12670)
 - `2026-10-21` **fabric8io/docker-maven-plugin** — [Retry the macOS integration tests only when the VM's resolver times out](https://github.com/fabric8io/docker-maven-plugin/pull/1970)
 - `2026-10-21` **aletheia-works/vivarium** — [build(docs): pin the release-please test engine to the action's bundled version](https://github.com/aletheia-works/vivarium/pull/550)
 
-<sub>1,665 merged PRs to other projects · updated 2026-10-29 by GitHub Actions</sub>
+<sub>1,689 merged PRs to other projects · updated 2026-10-30 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
