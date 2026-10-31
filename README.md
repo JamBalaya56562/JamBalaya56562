@@ -13,25 +13,25 @@
 <!--START_SECTION:prs-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [306](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [319](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.6k | [263](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [114](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [37](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/324215402?v=4&s=40" width="20" height="20" alt=""> | [aubepkg/aube](https://github.com/aubepkg/aube) | 2.1k | [24](https://github.com/aubepkg/aube/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [125](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [38](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [22](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 0 | [14](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
-- `2026-10-29` **motioneye-project/motioneye** — [docs(readme): mention the Docker images](https://github.com/motioneye-project/motioneye/pull/3488)
-- `2026-10-29` **duplicati/duplicati** — [Ignore the files the Playwright tests leave in the repository](https://github.com/duplicati/duplicati/pull/7636)
-- `2026-10-29` **duplicati/ngclient** — [Test responsive navigation and persistent theme selection](https://github.com/duplicati/ngclient/pull/616)
-- `2026-10-28` **google/go-github** — [fix: Use `BundleURL` in `verifyartifact` example and deprecate `Bundle`](https://github.com/google/go-github/pull/4681)
+- `2026-10-30` **duplicati/ngclient** — [Expose Save changes throughout the existing backup editor](https://github.com/duplicati/ngclient/pull/630)
+- `2026-10-30` **duplicati/duplicati** — [Do not list a placeholder version after a dlist upload is retried](https://github.com/duplicati/duplicati/pull/7601)
+- `2026-10-30` **duplicati/documentation** — [Document the fixes in Duplicati 2.4.1.0](https://github.com/duplicati/documentation/pull/54)
+- `2026-10-30` **google/go-github** — [test: Cover stateless GitHub App installation tokens](https://github.com/google/go-github/pull/4687)
+- `2026-10-30` **motioneye-project/motioneye** — [fix(ui): keep the aspect ratio of a camera in error](https://github.com/motioneye-project/motioneye/pull/3491)
 - `2026-10-26` **aubepkg/aube** — [fix(install): link the bins of a dependency's link: deps into its .bin](https://github.com/aubepkg/aube/pull/1873)
 - `2026-10-25` **biomejs/biome** — [fix(migrate): carry Prettier's bracketSpacing into the top-level](https://github.com/biomejs/biome/pull/12670)
 - `2026-10-21` **fabric8io/docker-maven-plugin** — [Retry the macOS integration tests only when the VM's resolver times out](https://github.com/fabric8io/docker-maven-plugin/pull/1970)
-- `2026-10-21` **aletheia-works/vivarium** — [build(docs): pin the release-please test engine to the action's bundled version](https://github.com/aletheia-works/vivarium/pull/550)
 
-<sub>1,689 merged PRs to other projects · updated 2026-10-30 by GitHub Actions</sub>
+<sub>1,717 merged PRs to other projects · updated 2026-10-31 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
