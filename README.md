@@ -13,17 +13,17 @@
 <!--START_SECTION:prs-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
+| <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [354](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [320](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/216188?v=4&s=40" width="20" height="20" alt=""> | [jdx/mise](https://github.com/jdx/mise) | 35.6k | [263](https://github.com/jdx/mise/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [125](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/1342004?v=4&s=40" width="20" height="20" alt=""> | [google/go-github](https://github.com/google/go-github) | 11.3k | [49](https://github.com/google/go-github/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [38](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [27](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [32](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
-- `2026-11-01` **aletheia-works/vivarium** — [ci(infra): plan and apply infra/aws from CI](https://github.com/aletheia-works/vivarium/pull/628)
-- `2026-10-31` **motioneye-project/motioneye** — [enh(ui): keep the display preferences per browser, the layout columns from the window width by default](https://github.com/motioneye-project/motioneye/pull/3502)
+- `2026-11-02` **aletheia-works/vivarium** — [feat(layer3): move the motionEye #3515 preview to e23eab6](https://github.com/aletheia-works/vivarium/pull/662)
+- `2026-11-01` **motioneye-project/motioneye** — [fix(media): stop at the target dir when removing empty folders, without .keep](https://github.com/motioneye-project/motioneye/pull/3507)
 - `2026-10-31` **google/go-github** — [refactor!: Add `ProvisionAndInviteSCIMUserRequest` and pass it by value to `ProvisionAndInviteSCIMUser`](https://github.com/google/go-github/pull/4697)
 - `2026-10-31` **duplicati/duplicati** — [Exit with the error code when a restore could not restore some files](https://github.com/duplicati/duplicati/pull/7654)
 - `2026-10-30` **duplicati/ngclient** — [Expose Save changes throughout the existing backup editor](https://github.com/duplicati/ngclient/pull/630)
@@ -31,7 +31,7 @@
 - `2026-10-26` **aubepkg/aube** — [fix(install): link the bins of a dependency's link: deps into its .bin](https://github.com/aubepkg/aube/pull/1873)
 - `2026-10-25` **biomejs/biome** — [fix(migrate): carry Prettier's bracketSpacing into the top-level](https://github.com/biomejs/biome/pull/12670)
 
-<sub>1,729 merged PRs to other projects · updated 2026-11-01 by GitHub Actions</sub>
+<sub>1,759 merged PRs to other projects · updated 2026-11-02 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
