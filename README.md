@@ -14,24 +14,24 @@
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [365](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [323](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [327](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [130](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/1342004?v=4&s=40" width="20" height="20" alt=""> | [google/go-github](https://github.com/google/go-github) | 11.3k | [49](https://github.com/google/go-github/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [36](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/coi-serviceworker](https://github.com/aletheia-works/coi-serviceworker) | 0 | [13](https://github.com/aletheia-works/coi-serviceworker/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/coi-serviceworker](https://github.com/aletheia-works/coi-serviceworker) | 0 | [17](https://github.com/aletheia-works/coi-serviceworker/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
+- `2026-11-04` **duplicati/duplicati** — [Remove test files of failed attempts in the backend tester](https://github.com/duplicati/duplicati/pull/7682)
+- `2026-11-04` **aletheia-works/coi-serviceworker** — [feat: ship the types in the npm package](https://github.com/aletheia-works/coi-serviceworker/pull/19)
+- `2026-11-04` **emdash-cms/emdash** — [fix(docker): make the pg and libSQL drivers resolvable in the runtime image](https://github.com/emdash-cms/emdash/pull/3406)
 - `2026-11-04` **aletheia-works/vivarium** — [chore(layer3): remove the motionEye #3515 preview](https://github.com/aletheia-works/vivarium/pull/677)
-- `2026-11-04` **aletheia-works/coi-serviceworker** — [feat: limit the pages the worker isolates, and let a page remove it](https://github.com/aletheia-works/coi-serviceworker/pull/15)
 - `2026-11-03` **motioneye-project/motioneye** — [ci: replace black, flake8, isort and pyupgrade with ruff](https://github.com/motioneye-project/motioneye/pull/3519)
-- `2026-11-03` **duplicati/duplicati** — [Let the test operation check a block volume without blocks](https://github.com/duplicati/duplicati/pull/7659)
 - `2026-11-03` **jj-vcs/jj** — [testutils: don't point GIT_CONFIG_* at /dev/null on Windows](https://github.com/jj-vcs/jj/pull/10202)
 - `2026-11-02` **duplicati/ngclient** — [Honor the selected file export encryption options](https://github.com/duplicati/ngclient/pull/640)
 - `2026-10-31` **google/go-github** — [refactor!: Add `ProvisionAndInviteSCIMUserRequest` and pass it by value to `ProvisionAndInviteSCIMUser`](https://github.com/google/go-github/pull/4697)
-- `2026-10-30` **duplicati/documentation** — [Document the fixes in Duplicati 2.4.1.0](https://github.com/duplicati/documentation/pull/54)
 
-<sub>1,796 merged PRs to other projects · updated 2026-11-04 by GitHub Actions</sub>
+<sub>1,805 merged PRs to other projects · updated 2026-11-05 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
