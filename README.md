@@ -13,25 +13,25 @@
 <!--START_SECTION:prs-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [397](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [407](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [371](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [173](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/1342004?v=4&s=40" width="20" height="20" alt=""> | [google/go-github](https://github.com/google/go-github) | 11.3k | [54](https://github.com/google/go-github/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [52](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [184](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [55](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/1342004?v=4&s=40" width="20" height="20" alt=""> | [google/go-github](https://github.com/google/go-github) | 11.3k | [55](https://github.com/google/go-github/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/coi-serviceworker](https://github.com/aletheia-works/coi-serviceworker) | 0 | [18](https://github.com/aletheia-works/coi-serviceworker/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
-- `2026-11-11` **motioneye-project/motioneye** — [fix(config): run the webhook before the email and Telegram senders](https://github.com/motioneye-project/motioneye/pull/3544)
-- `2026-11-11` **duplicati/ngclient** — [Send the UI language for English API requests](https://github.com/duplicati/ngclient/pull/681)
-- `2026-11-11` **duplicati/duplicati** — [Say what to do with a 7z volume instead of only failing to load it](https://github.com/duplicati/duplicati/pull/7765)
-- `2026-11-10` **google/go-github** — [refactor!: Rename `MaintenanceOptions` to `SetMaintenanceStatusRequest` and `CreateMaintenance` to `SetMaintenanceStatus`, and pass it by value](https://github.com/google/go-github/pull/4708)
+- `2026-11-13` **motioneye-project/motioneye** — [fix(config): keep percent-encoding in webhook URLs from motion's specifiers](https://github.com/motioneye-project/motioneye/pull/3549)
+- `2026-11-12` **aletheia-works/formicarium** — [feat: publish the package to JSR as well](https://github.com/aletheia-works/formicarium/pull/291)
+- `2026-11-12` **duplicati/duplicati** — [Time out SharePoint upload chunks that stop moving](https://github.com/duplicati/duplicati/pull/7768)
+- `2026-11-12` **google/go-github** — [refactor!: Rename `CustomDeploymentProtectionRuleRequest` to `CreateCustomDeploymentProtectionRuleRequest` and pass it by value](https://github.com/google/go-github/pull/4712)
+- `2026-11-12` **aletheia-works/paludarium** — [feat(wasm): publish the npm package's files to JSR as well](https://github.com/aletheia-works/paludarium/pull/512)
+- `2026-11-12` **duplicati/ngclient** — [Migrate source data editor bindings to Signal Forms](https://github.com/duplicati/ngclient/pull/688)
 - `2026-11-10` **duplicati/documentation** — [Drop --disable-streaming-transfers from the move-for-put advice](https://github.com/duplicati/documentation/pull/56)
 - `2026-11-06` **aletheia-works/coi-serviceworker** — [test: restore the TypeScript spec on Playwright 1.65](https://github.com/aletheia-works/coi-serviceworker/pull/21)
-- `2026-11-06` **aletheia-works/vivarium** — [ci: run the Playwright suites on Bun](https://github.com/aletheia-works/vivarium/pull/689)
-- `2026-11-06` **aletheia-works/formicarium** — [docs: correct the push authentication note in AGENTS.md](https://github.com/aletheia-works/formicarium/pull/269)
 
-<sub>1,954 merged PRs to other projects · updated 2026-11-12 by GitHub Actions</sub>
+<sub>1,982 merged PRs to other projects · updated 2026-11-13 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
