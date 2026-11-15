@@ -13,25 +13,25 @@
 <!--START_SECTION:prs-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [426](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [445](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/vivarium](https://github.com/aletheia-works/vivarium) | 0 | [371](https://github.com/aletheia-works/vivarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [205](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [59](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [216](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [60](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [22](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/coi-serviceworker](https://github.com/aletheia-works/coi-serviceworker) | 0 | [18](https://github.com/aletheia-works/coi-serviceworker/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
-- `2026-11-13` **motioneye-project/motioneye** — [fix(meyectl): keep starting when the system locale is not available](https://github.com/motioneye-project/motioneye/pull/3553)
+- `2026-11-14` **motioneye-project/motioneye** — [fix(ui): show the Auto Threshold Tuning switch before the rows it hides](https://github.com/motioneye-project/motioneye/pull/3556)
+- `2026-11-14` **duplicati/duplicati** — [Remove unused AngularJS modules from ngax](https://github.com/duplicati/duplicati/pull/7843)
+- `2026-11-14` **duplicati/ngclient** — [Send the XSRF header with the proxy authentication check](https://github.com/duplicati/ngclient/pull/726)
 - `2026-11-13` **aletheia-works/paludarium** — [refactor(release): remove the JSR skip of 0.15.0, which is released](https://github.com/aletheia-works/paludarium/pull/561)
-- `2026-11-13` **duplicati/duplicati** — [Add an option to request S3 server-side encryption](https://github.com/duplicati/duplicati/pull/7814)
-- `2026-11-13` **duplicati/ngclient** — [Use native RouterLink anchors for sidebar navigation](https://github.com/duplicati/ngclient/pull/708)
 - `2026-11-12` **aletheia-works/formicarium** — [feat: publish the package to JSR as well](https://github.com/aletheia-works/formicarium/pull/291)
 - `2026-11-12` **google/go-github** — [refactor!: Rename `CustomDeploymentProtectionRuleRequest` to `CreateCustomDeploymentProtectionRuleRequest` and pass it by value](https://github.com/google/go-github/pull/4712)
 - `2026-11-10` **duplicati/documentation** — [Drop --disable-streaming-transfers from the move-for-put advice](https://github.com/duplicati/documentation/pull/56)
 - `2026-11-06` **aletheia-works/coi-serviceworker** — [test: restore the TypeScript spec on Playwright 1.65](https://github.com/aletheia-works/coi-serviceworker/pull/21)
 
-<sub>2,032 merged PRs to other projects · updated 2026-11-14 by GitHub Actions</sub>
+<sub>2,063 merged PRs to other projects · updated 2026-11-15 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
