@@ -13,24 +13,24 @@
 <!--START_SECTION:prs-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [497](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [260](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [70](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [511](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [279](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [72](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/1342004?v=4&s=40" width="20" height="20" alt=""> | [google/go-github](https://github.com/google/go-github) | 11.3k | [55](https://github.com/google/go-github/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [22](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 2 | [7](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
-- `2026-11-18` **duplicati/ngclient** — [Cover Windows destination typing and persistence with a real server](https://github.com/duplicati/ngclient/pull/772)
-- `2026-11-18` **duplicati/duplicati** — [Add a ShellCheck CI job and fix error-level findings](https://github.com/duplicati/duplicati/pull/7904)
-- `2026-11-17` **motioneye-project/motioneye** — [refactor(v4l2ctl): list the resolutions without a shell](https://github.com/motioneye-project/motioneye/pull/3563)
+- `2026-11-19` **motioneye-project/motioneye** — [fix(uploadservices): tell Dropbox's own error, not a failed refresh](https://github.com/motioneye-project/motioneye/pull/3570)
+- `2026-11-19` **duplicati/ngclient** — [Use Signal Forms for source include picker](https://github.com/duplicati/ngclient/pull/790)
+- `2026-11-19` **duplicati/duplicati** — [Add an option to append a suffix to remote file names](https://github.com/duplicati/duplicati/pull/7925)
 - `2026-11-13` **aletheia-works/paludarium** — [refactor(release): remove the JSR skip of 0.15.0, which is released](https://github.com/aletheia-works/paludarium/pull/561)
 - `2026-11-12` **aletheia-works/formicarium** — [feat: publish the package to JSR as well](https://github.com/aletheia-works/formicarium/pull/291)
 - `2026-11-12` **google/go-github** — [refactor!: Rename `CustomDeploymentProtectionRuleRequest` to `CreateCustomDeploymentProtectionRuleRequest` and pass it by value](https://github.com/google/go-github/pull/4712)
 - `2026-11-10` **duplicati/documentation** — [Drop --disable-streaming-transfers from the move-for-put advice](https://github.com/duplicati/documentation/pull/56)
 
-<sub>2,169 merged PRs to other projects · updated 2026-11-19 by GitHub Actions</sub>
+<sub>2,204 merged PRs to other projects · updated 2026-11-20 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
