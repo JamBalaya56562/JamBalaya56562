@@ -29,7 +29,7 @@
 - `2026-11-12` **aletheia-works/formicarium** — [feat: publish the package to JSR as well](https://github.com/aletheia-works/formicarium/pull/291)
 - `2026-11-12` **google/go-github** — [refactor!: Rename `CustomDeploymentProtectionRuleRequest` to `CreateCustomDeploymentProtectionRuleRequest` and pass it by value](https://github.com/google/go-github/pull/4712)
 
-<sub>2,248 merged PRs to other projects · updated 2026-11-21 by GitHub Actions</sub>
+<sub>2,248 merged PRs to other projects · updated 2026-11-22 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
