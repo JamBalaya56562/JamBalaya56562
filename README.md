@@ -13,23 +13,23 @@
 <!--START_SECTION:prs-->
 | | Repository | ⭐ Stars | Merged PRs |
 | :-: | :-- | --: | --: |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [553](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [332](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [73](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15.2k | [565](https://github.com/duplicati/duplicati/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/ngclient](https://github.com/duplicati/ngclient) | 16 | [342](https://github.com/duplicati/ngclient/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/101178162?v=4&s=40" width="20" height="20" alt=""> | [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) | 4.7k | [74](https://github.com/motioneye-project/motioneye/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/.github](https://github.com/aletheia-works/.github) | 0 | [53](https://github.com/aletheia-works/.github/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
+| <img src="https://avatars.githubusercontent.com/u/8270231?v=4&s=40" width="20" height="20" alt=""> | [duplicati/documentation](https://github.com/duplicati/documentation) | 5 | [40](https://github.com/duplicati/documentation/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 | <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/formicarium](https://github.com/aletheia-works/formicarium) | 1 | [25](https://github.com/aletheia-works/formicarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
-| <img src="https://avatars.githubusercontent.com/u/277398715?v=4&s=40" width="20" height="20" alt=""> | [aletheia-works/paludarium](https://github.com/aletheia-works/paludarium) | 2 | [7](https://github.com/aletheia-works/paludarium/pulls?q=is%3Apr+author%3AJamBalaya56562+is%3Amerged) |
 
 **🆕 Latest merged pull requests**
 
-- `2026-11-24` **motioneye-project/motioneye** — [feat(sendtelegram): send the movies of the events too](https://github.com/motioneye-project/motioneye/pull/3572)
-- `2026-11-24` **duplicati/ngclient** — [Keep backup progress and toolbar controls usable on narrow screens](https://github.com/duplicati/ngclient/pull/844)
-- `2026-11-24` **duplicati/duplicati** — [Suggest the command that works for the data folder of the service](https://github.com/duplicati/duplicati/pull/7990)
+- `2026-11-25` **duplicati/ngclient** — [Use Signal Forms for the power mode provider](https://github.com/duplicati/ngclient/pull/856)
+- `2026-11-25` **duplicati/duplicati** — [Say what the ZIP fallback warning means](https://github.com/duplicati/duplicati/pull/7995)
+- `2026-11-25` **motioneye-project/motioneye** — [fix(ui): allow manual and interval pictures with continuous recording](https://github.com/motioneye-project/motioneye/pull/3567)
 - `2026-11-24` **aletheia-works/.github** — [fix(workflows): stop OpenTofu runs on a lost state and keep plans from cancelling applies](https://github.com/aletheia-works/.github/pull/96)
 - `2026-11-24` **aletheia-works/formicarium** — [fix(showcase): build libtasn1 for GnuTLS and drop the 3.8.13 pin](https://github.com/aletheia-works/formicarium/pull/317)
-- `2026-11-13` **aletheia-works/paludarium** — [refactor(release): remove the JSR skip of 0.15.0, which is released](https://github.com/aletheia-works/paludarium/pull/561)
+- `2026-11-10` **duplicati/documentation** — [Drop --disable-streaming-transfers from the move-for-put advice](https://github.com/duplicati/documentation/pull/56)
 
-<sub>2,305 merged PRs to other projects · updated 2026-11-25 by GitHub Actions</sub>
+<sub>2,328 merged PRs to other projects · updated 2026-11-26 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
