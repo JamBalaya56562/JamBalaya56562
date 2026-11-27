@@ -29,7 +29,7 @@
 - `2026-11-24` **aletheia-works/formicarium** — [fix(showcase): build libtasn1 for GnuTLS and drop the 3.8.13 pin](https://github.com/aletheia-works/formicarium/pull/317)
 - `2026-11-10` **duplicati/documentation** — [Drop --disable-streaming-transfers from the move-for-put advice](https://github.com/duplicati/documentation/pull/56)
 
-<sub>2,328 merged PRs to other projects · updated 2026-11-26 by GitHub Actions</sub>
+<sub>2,328 merged PRs to other projects · updated 2026-11-27 by GitHub Actions</sub>
 <!--END_SECTION:prs-->
 
 ## ⚡ Tech Stack
